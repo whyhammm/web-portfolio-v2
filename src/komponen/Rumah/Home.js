@@ -29,10 +29,7 @@ function Home() {
                 <Type />
               </div>
 
-              <h3 style={{ paddingLeft: 50, textAlign: "left" }}>
-                From
-                <strong className="purple"> Surabaya </strong>Indonesia
-              </h3>
+      
             </Col>
 
             <Col md={5} style={{ paddingBottom: 20 }}>
